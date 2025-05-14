@@ -13,5 +13,5 @@ Charity Center Management System
 
 <b>Project Timeline</b>
 
-- Project Commencement: 10th September 2024
-- Project Completion: 24th September 2024
+- Project Commencement: 20th August 2024
+- Project Completion: 9th September 2024
